@@ -64,13 +64,7 @@ const Header = () => {
                                 <li className='px-3 py-2'>{eachSuggesion}</li>
                             )
                         })}
-                        {/* <li>iphone</li>
-                        <li>iphone</li>
-                        <li>iphone</li>
-                        <li>iphone</li>
-                        <li>iphone</li>
-                        <li>iphone</li>
-                        <li>iphone</li> */}
+                       
                     </ul>
                 </div>}
                 </div>
